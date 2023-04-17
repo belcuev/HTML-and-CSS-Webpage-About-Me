@@ -1,0 +1,1 @@
+My name is Belen Cuevas. I have been at SCC for <yearsOfStudy> and plan to <goal> after completing my courses. 
